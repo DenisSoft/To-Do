@@ -1,0 +1,2 @@
+export const UPDATE_FILTER_TASKS = 'UPDATE_FILTER_TASKS';
+
